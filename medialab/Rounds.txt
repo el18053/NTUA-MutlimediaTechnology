@@ -1,0 +1,5 @@
+Mines 11,Attempts 1,Time 2,Winnner Computer
+Mines 40,Attempts 1,Time 320,Winnner Computer
+Mines 40,Attempts 1,Time 298,Winnner Computer
+Mines 40,Attempts 1,Time 0,Winnner Computer
+Mines 40,Attempts 1,Time 0,Winnner Computer
